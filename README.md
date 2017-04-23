@@ -3,7 +3,7 @@ This is an academic research project done for the course EEL 6935 Big Data Ecosy
 
 The steps should be carried out in the order of the following files.
 -> data_augmentation.ipynb
- --> The seven kinds of augmentations are created using this file and are stored in the specified folders which need to be created.
+--> The seven kinds of augmentations are created using this file and are stored in the specified folders which need to be created.
    
 -> resize_files.ipynb
 --> The code is used to resize the images to sizes of 256x128 and 128x64 and the resized images are stored in the specified folders which need to be created.
